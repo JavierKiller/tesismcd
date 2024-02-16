@@ -1,0 +1,46 @@
+## Limpieza de datos
+
+Los datos para calcular índices de riesgo entomológico son de las actividades de vigilancia entomológica con ovitrampas y estudios entomológicos para fase larvaria y pupal. Estos datos se descargan de la plataforma en archivos .txt y requieren de un tratamiento previo, que incluye un código particular para leer el tipo de archivo, selección de variables de interés, cambiar el formato de los títulos de las variables y cambios en los tipos de datos, antes de poder realizar cálculos y análisis.
+
+La base de datos de Estudio entomológico se descarga en un archivo .txt de la Plataforma “Vigilancia Entomológica y Control Integral del Vector”, tiene 121 variables de las cuales consideramos 16 de interés, 3 de ellas se dividen en dos por lo que resultan en 19
+
+## descripcion de la base de datos
+
+La base de datos de estudio entomológico es un archivo .txt de la Plataforma Vigilancia Entomológica y Control Integral del Vector
+
+Tiene 121 variables
+
+y 16 variables de interés
+
+formato de los datos
+
+## variables de interes
+
+### Variable para determinar el tipo de estudio entomológico:
+
+Tipo de Estudio
+
+### Variables para la georreferenciación:
+
+Jurisdicción Municipio Localidad Sector
+
+### Variables de intervalos de tiempo:
+
+Fecha de Inicio Semana Epidemiológica
+
+### Variables para índices de estegomía:
+
+Casas Revisadas Casas Positivas Total de Recipientes con Agua Total de Recipientes Positivos Total de Recipientes Positivos a Pupas No. Total de Pupas en Recipientes Recipientes Tratables Recipientes Controlables Recipientes Eliminables
+
+## Archivos shapefile de los sectores de todo el estado de Sonora
+
+## Data cleaning
+
+Resolución de inconsistencia de tipo de dato:
+
+Formato de títulos de las variables Tipo de dato POSIX a las variables de fecha Asignar tipo de dato correcto(carácter) Dividir variables compuestas
+
+Ajuste entre tipos de datos shapefile para empatar con un dataframe Carga el archivo .shp (sp) Cambiar la proyección EPSG 4326(sp) Guardar como un archivo .shp\
+Carga el archivo .shp (maptools) Transforma en un dataframe con datos geoespaciales
+
+""descripcion de la base de datos formato de los datos variables de interes Data cleaning""

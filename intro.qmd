@@ -1,0 +1,28 @@
+# Introduccion
+
+## Motivacion
+
+Queremos Analizar los datos de la actividad de vigilancia entomológica de forma oportuna y automática utilizando herramientas de Ciencia de Datos utilizando la base de datos de la plataforma de “Vigilancia Entomológica y Control Integral del Vector” del INSTITUTO NACIONAL DE SALUD PÚBLICA en colaboración con Secretaria de Salud y el Centro Nacional de Prevencion y Control de enfermedades (CENAPRECE). Con el Fin de calcular y analizar los índices de riesgo entomológico, y con esto gestionar información para la toma de decisiones en la prevención de enfermedades trasmitidas por vector.
+
+El análisis de riesgo entomológico se hace en hojas de cálculo El manejo de la información es ineficiente: La estructura de la base de datos es compleja Adaptar consultas a pequeñas modificaciones es impráctico La visualización georreferenciada de esta plataforma es pobre e inestable
+
+Usar R para visualizar la información en tiempo y espacio Automatizar el manejo de la información Generar visualización georreferenciada con los índices de estegomía
+
+## Descripción del problema
+
+El Programa estatal de vigilancia entomología y control integral de enfermedades trasmitidas por vector, realiza diversas actividades para la prevención de enfermedades, las cuales se guían con actividades de vigilancia que proporcionan índices de riesgo entomológico, por ello se hará una API para calcular los índices de riesgo entomológico de forma automática y oportuna para la toma de decisione.
+
+Todas las actividades se capturan diariamente en una plataforma, donde es posible descargar los datos para su reporte y análisis. En el caso de Vigilancia por Ovitrampa(VO), la plataforma calcula los índices de riesgo pero para la actividad de Estudio Entomológico (EE) los calcula por manzana trabajada, estos índices se requiere por localidad de riesgo de manera semanal.
+
+Se requiere poder calcular índices de riesgo del EE por tipo de estudio, localidad de riesgo y por semana epidemiológica de manera automatizada.
+
+La actividad de EE evalúa una muestra antes(encuesta) y después(verificación) de las actividades de control integral para determinar el riesgo entomológico\
+que hay en un área grande a trabajar (Sectores o Localidad) y si requiere reforzar acciones de control y prevención.
+
+Tener la información oportuna de los índices de riego entomológicos permiten tomar decisiones informades de ¿En Dónde? y ¿Cuándo? focalizar intervenciones.
+
+## Gestion de datos
+
+Para validar y poner a prueba la solución propuesta, se plantea la utilización de una base de datos ficticia que sea representativa con las bases de datos reales descargadas de la plataforma. Esto permitirá evaluar el funcionamiento del paquete de R en un entorno controlado. Una vez realizadas las pruebas iniciales y asegurada la confiabilidad de los resultados obtenidos,se establecerá un convenio de confidencialidad con el fin de acceder a los datos reales y evaluar el desempeño del paquete de R en un escenario más cercano a la realidad. Esta estrategia garantizará la confidencialidad de los datos utilizados, a la vez que brindará la oportunidad de comprobar la efectividad de la solución en situaciones reales y aplicables al contexto de vigilancia entomológica y control de enfermedades transmitidas por vectores.
+
+

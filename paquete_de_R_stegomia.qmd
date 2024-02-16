@@ -1,0 +1,26 @@
+# Cálculo de los índices de estegomía
+
+
+Índice de casa (local) (IC), es decir, porcentaje de casas infestadas con
+larvas, pupas o ambas.
+CI = Casas infestadas/casas inspeccionadas X 100
+
+
+Índice de recipiente (IR), es decir, porcentaje de recipientes que contienen
+agua y están infestados con larvas o pupas.
+IR = Recipientes positivos / recipientes inspeccionados  X 100
+
+
+Dengue: guías para el diagnóstico, tratamiento, prevención y control.
+Índice de Breteau (IB) – es decir, número de recipientes positivos por cada
+100 casas inspeccionadas.
+IB = Número de recipientes positivos / casas inspeccionadas X 100
+
+
+## 
+
+Se sigue el modelo de desarrollo basado test driven development Se 
+desarrollaron basado en tidyr y devtools tidyr Manipulación de los datos Estilo
+de codificación devtools Documentación (roxygen2 ) Pruebas unitarias (testthat) 
+CRAN (Comprehensive R Archive Network)
+
