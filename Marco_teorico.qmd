@@ -1,0 +1,156 @@
+# Marco teorico
+
+## Vigilancia Epidemiológica y Entomológica del Dengue
+
+Enfermedades transmitidas por vector (ETV), a los padecimientos en los que el
+agente causal o infeccioso requiere la participación de un artrópodo como 
+hospedero o transmisor para completar su ciclo de vida y para mantener su 
+población en hospederos vertebrados susceptibles. Se incluyen: paludismo, 
+dengue, leishmaniasis, oncocercosis, tripanosomiasis, rickettsiosis, Fiebre
+del Oeste del Nilo, Fiebre Chikungunya, otras arbovirosis, erliquiosis,
+anaplasmosis.
+
+Las (ETV) representan un importante problema de salud pública en México. Se 
+estima que donde se localiza la mayor parte de centros agrícolas, ganaderos,
+industriales, pesqueros, petroleros y turísticos, es decir; en cerca de 60% del
+territorio nacional, se tienen condiciones ambientales que favorecen su 
+transmisión. [referencia](https://www.gob.mx/salud/cenaprece/acciones-y-programas/direccion-del-programa-de-enfermedades-transmitidas-por-vectores)
+
+El dengue es una ETV (mosquitos) que representa un grave problema de salud 
+pública en diversas regiones del mundo. Para prevenir y controlar eficazmente
+su propagación, se hace indispensable la implementación de sistemas de 
+vigilancia epidemiológica y entomológica.
+
+### Vigilancia Epidemiológica:
+
+La vigilancia epidemiológica del dengue comprende la recopilación sistemática,
+el análisis y la difusión de información sobre la enfermedad. Sus objetivos 
+abarcan la detección temprana de brotes, la medición de la carga de la 
+enfermedad, el monitoreo de tendencias, la evaluación del impacto social y
+económico, y la guía para la planificación y asignación de recursos.
+
+### Vigilancia Entomológica:
+
+La vigilancia entomológica se centra en el estudio de artrópodos vectores de
+enfermedades, particularmente Aedes aegypti, es el principal vector del dengue.
+Esta vigilancia es fundamental para determinar la distribución y densidad de 
+mosquitos, conocer la presencia y abundancia de mosquitos permite identificar 
+áreas de mayor riesgo de transmisión.
+Evaluar los principales hábitats larvales, esto ayudar a dirigir las acciones
+de control hacia los criaderos preferidos por los mosquitos.
+
+### Índices Estegomía
+
+Para evaluar la presencia y densidad de mosquitos Aedes, se utilizan diversos
+índices entomológicos particularmente los índices de estegomía se calculan en
+los estudios entomológicos de fase larvar y pupal. Las metodologías más comunes
+emplean procedimientos de muestreo de larvas en lugar de recolecciones de
+huevos o adultos. La unidad básica de muestreo es la casa o localidad, donde
+se busca sistemáticamente recipientes para almacenar agua.
+
+#### índice de casa positiva (HI)
+
+El índice de casa positiva se ha utilizado más ampliamente para monitorear los
+niveles de infestación, pero no toma en cuenta la cantidad de contenedores
+positivos ni la productividad de esos contenedores.
+
+#### índice de contenedor positivo (CI)
+
+El índice de contenedores sólo proporciona información sobre la proporción de
+contenedores con agua que son positivos con larvas o pupas de mosquito.
+
+Los contenedores se examinan para detectar la presencia de larvas y pupas de 
+mosquitos. Dependiendo de los objetivos del estudio, la búsqueda podrá 
+finalizar tan pronto como se encuentren larvas de mosquito, o podrá continuar
+hasta que se hayan examinado todos los contenedores. Es necesaria la 
+recolección de especímenes para examinar en laboratorio para confirmar las
+especies presente.
+
+#### índice de Breteau (BI)
+
+El índice Breteau establece una relación entre contenedores positivos y casas,
+y se considera el más informativo, pero nuevamente no refleja la productividad
+de los contenedores. Sin embargo, en el curso de la recopilación de información
+básica para calcular el índice de Breteau, es posible y deseable obtener un
+perfil de las características del hábitat de las larvas registrando 
+simultáneamente la abundancia relativa de los diversos tipos de contenedores,
+ya sea como sitios potenciales o reales de producción de mosquitos. (por 
+ejemplo, número de tambores positivos por 100 casas, número de neumáticos 
+positivos por 100 casas, etc.). Estos datos son particularmente relevantes para
+centrar esfuerzos para la gestión o eliminación de los hábitats más comunes y 
+para la orientación de mensajes educativos en apoyo de iniciativas comunitarias.
+
+#### Los índices Estegomía: herramientas clave para la lucha contra el dengue
+
+Los índices entomológicos son medidas que permiten evaluar la presencia,
+abundancia y distribución del mosquito Aedes aegypti, vector del dengue.
+Estos índices son herramientas valiosas para la prevención y control de esta
+enfermedad.
+
+La presencia y densidad de mosquitos Aedes se correlacionan directamente con
+la probabilidad de transmisión del virus. Los índices entomológicos, como el
+índice de casa positiva o el índice de Breteau, permiten determinar el nivel
+de riesgo en una comunidad y, en consecuencia, tomar las medidas de prevención
+y control necesarias.
+
+Los índices entomológicos ayudan a identificar las zonas con mayor riesgo de
+transmisión, permitiendo a las autoridades sanitarias enfocar sus esfuerzos y
+recursos en aquellas áreas donde las acciones de control vectorial son más
+urgentes. De esta manera se puede priorizar las áreas de intervención.
+
+También sirven para monitorear la efectividad de las medidas de control. Al
+comparar los índices entomológicos antes(encuesta) y después(verificación) de
+la implementación de medidas de control, como la aplicación de larvicidas, el
+rociado de insecticidas en casos de dengue o campañas de descacharrización,
+se puede evaluar la eficacia de estas medidas y determinar si se están
+alcanzando los objetivos deseados. Esta información permite realizar ajustes
+y mejoras en las estrategias de control para optimizar su rendimiento.
+
+###
+
+La vigilancia epidemiológica y entomológica son fundamentales para la 
+prevención y control del dengue. Mediante la recopilación sistemática de datos
+sobre la enfermedad y los vectores, se pueden tomar decisiones informadas para
+mitigar su impacto y proteger a la población. los índices entomológicos son
+indispensables para la vigilancia y el control del dengue. Proporcionando
+información valiosa para evaluar el riesgo de transmisión, y permiten la tomar
+decisiones estratégicas para priorizar acciones y monitorear la efectividad de
+las intervenciones, para prevenir la transmisión del dengue y proteger la
+salud de la población
+
+
+
+## Obtención de datos
+
+El Programa estatal de vigilancia entomología y control integral de enfermedades
+trasmitidas por vector, realiza diversas actividades para la prevención de 
+enfermedades (Control Larvario (CL), Rociado a caso (RaC), Rociado intra 
+domiciliario (RI) y Nebulización espacial (N)) las cuales se guían con 
+actividades de vigilancia (Vigilancia entomológica con ovitrampas, (VO) las 
+cuales proporcionan índices de riesgo entomológico (EE), Estudios entomológicos 
+en fase larval y pupal, y Estudios entomovirológicos (EEV)). Todo lo anterior
+con el fin de prevenir y controlar brotes de enfermedades trasmitidas por 
+vector (ETV). El objetivo de todas estas acciones es prevenir y controlar 
+brotes de enfermedades transmitidas por vectores. Las ETV son aquellas causadas
+por un agente vivo (como los insectos) que ingieren microorganismos de la sangre
+que consumen de otros seres vivos y después los transmiten mediante sus 
+picaduras. 
+
+Todas las actividades mencionadas se registran diariamente en una 
+plataforma, donde se pueden descargar los datos para su análisis y reporte. 
+En el caso de la actividad de EE, se calcula por cada área trabajada y se 
+requiere informar semanalmente según la localidad de riesgo.
+
+La actividad de EE consiste en muestrear larvas (inmaduras activas, incluyendo 
+pupas) en lugar de capturar huevos o mosquitos adultos. Se realizan búsquedas 
+sistemáticas para detectar recipientes que contengan agua, y se inspeccionan 
+para detectar la presencia de larvas, pupas y restos de larvas y pupas de 
+mosquitos. Esta actividad evalúa una muestra antes (encuesta) y después 
+(verificación) de las actividades de control integral para determinar el riesgo
+ entomológico en un área trabajada (sectores o localidades) y si es necesario
+ reforzar las acciones de control.
+
+
+### Descripción de la base de datos
+
+La descarga de datos sobre la actividad de EE de la p

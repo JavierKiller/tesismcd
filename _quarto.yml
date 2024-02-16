@@ -1,0 +1,55 @@
+project:
+  type: book
+
+book:
+  title: "ESTMIACIÓN GEOREFERENCIADA DE RIESGO ENTOMÓLOGICO EN EL ESTADO DE SONORA."
+  author: "Javier Edgar Verdugo Molina"
+  date: "16/5/2023"
+  chapters:
+     - index.qmd
+     #- Agradecimientos.qmd
+     - intro.qmd
+     #- resumen.qmd
+     - Marco_teorico.qmd
+     #- preliminares.qmd 
+     #- objetivo.qmd 
+     #- Desarrollo.qmd
+     #- paquete_de_R_stegomia.qmd
+     #- limpieza_de_datos.qmd
+     #- Conclusiones.qmd
+     - referencia.qmd
+
+bibliography: references.bib
+
+format:
+  latex:
+    documentclass: report
+    classoption: [twocolumn, landscape]
+    lof: true
+    lot: true
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrbook
+    toc: true
+    toc-depth: 2
+    toc-title: Contents
+    number-sections: true
+    colorlinks: true
+    cite-method: biblatex
+
+editor: visual
+
+
+#source: project
+#quarto-pub:
+#  - id: "qpa_yxruFpN2RyUyiqLBDGzlYgxn3K0XFUgxV0qX8QVS3wWEvRZLM10JrDs0USXjeDKv"
+#    url: "https://javier-verdugo.quarto.pub/tesis_qmd"
+
+#qpa_yxruFpN2RyUyiqLBDGzlYgxn3K0XFUgxV0qX8QVS3wWEvRZLM10JrDs0USXjeDKv
+
+
+#url  https://javier-verdugo.quarto.pub/tesis_qmd/
+
+#quarto render index.qmd --to pdf
+
