@@ -15,7 +15,7 @@ book:
      #- objetivo.qmd 
      #- Desarrollo.qmd
      #- paquete_de_R_stegomia.qmd
-     #- limpieza_de_datos.qmd
+     - limpieza_de_datos.qmd
      #- Conclusiones.qmd
      - referencia.qmd
 
