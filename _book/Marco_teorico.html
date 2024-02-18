@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -151,6 +171,7 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#descripción-de-la-base-de-datos" id="toc-descripción-de-la-base-de-datos" class="nav-link" data-scroll-target="#descripción-de-la-base-de-datos"><span class="header-section-number">2.2.1</span> Descripción de la base de datos</a></li>
   </ul></li>
+  <li><a href="#tdd" id="toc-tdd" class="nav-link" data-scroll-target="#tdd"><span class="header-section-number">2.3</span> TDD</a></li>
   </ul>
 </nav>
     </div>
@@ -179,7 +200,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="vigilancia-epidemiológica-y-entomológica-del-dengue" class="level2" data-number="2.1">
 <h2 data-number="2.1" class="anchored" data-anchor-id="vigilancia-epidemiológica-y-entomológica-del-dengue"><span class="header-section-number">2.1</span> Vigilancia Epidemiológica y Entomológica del Dengue</h2>
 <p>Enfermedades transmitidas por vector (ETV), a los padecimientos en los que el agente causal o infeccioso requiere la participación de un artrópodo como hospedero o transmisor para completar su ciclo de vida y para mantener su población en hospederos vertebrados susceptibles. Se incluyen: paludismo, dengue, leishmaniasis, oncocercosis, tripanosomiasis, rickettsiosis, Fiebre del Oeste del Nilo, Fiebre Chikungunya, otras arbovirosis, erliquiosis, anaplasmosis.</p>
-<p>Las (ETV) representan un importante problema de salud pública en México. Se estima que donde se localiza la mayor parte de centros agrícolas, ganaderos, industriales, pesqueros, petroleros y turísticos, es decir; en cerca de 60% del territorio nacional, se tienen condiciones ambientales que favorecen su transmisión. <a href="https://www.gob.mx/salud/cenaprece/acciones-y-programas/direccion-del-programa-de-enfermedades-transmitidas-por-vectores">referencia</a></p>
+<p>Las (ETV) representan un importante problema de salud pública en México. Se estima que donde se localiza la mayor parte de centros agrícolas, ganaderos, industriales, pesqueros, petroleros y turísticos, es decir; en cerca de 60% del territorio nacional, se tienen condiciones ambientales que favorecen su transmisión. [<span class="citation" data-cites="gobmx2023">Secretaría de Salud (<a href="referencia.html#ref-gobmx2023" role="doc-biblioref">2023</a>)</span>;]</p>
 <p>El dengue es una ETV (mosquitos) que representa un grave problema de salud pública en diversas regiones del mundo. Para prevenir y controlar eficazmente su propagación, se hace indispensable la implementación de sistemas de vigilancia epidemiológica y entomológica.</p>
 <section id="vigilancia-epidemiológica" class="level3" data-number="2.1.1">
 <h3 data-number="2.1.1" class="anchored" data-anchor-id="vigilancia-epidemiológica"><span class="header-section-number">2.1.1</span> Vigilancia Epidemiológica:</h3>
@@ -187,22 +208,28 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="vigilancia-entomológica" class="level3" data-number="2.1.2">
 <h3 data-number="2.1.2" class="anchored" data-anchor-id="vigilancia-entomológica"><span class="header-section-number">2.1.2</span> Vigilancia Entomológica:</h3>
-<p>La vigilancia entomológica se centra en el estudio de artrópodos vectores de enfermedades, particularmente Aedes aegypti, es el principal vector del dengue. Esta vigilancia es fundamental para determinar la distribución y densidad de mosquitos, conocer la presencia y abundancia de mosquitos permite identificar áreas de mayor riesgo de transmisión. Evaluar los principales hábitats larvales, esto ayudar a dirigir las acciones de control hacia los criaderos preferidos por los mosquitos.</p>
+<p>La vigilancia entomológica se centra en el estudio de artrópodos vectores de enfermedades, particularmente Aedes aegypti, es el principal vector del Esta vigilancia es fundamental para determinar la distribución y densidad de mosquitos, conocer la presencia y abundancia de mosquitos permite identificar áreas de mayor riesgo de transmisión. Evaluar los principales hábitats larvales, esto ayudar a dirigir las acciones de control hacia los criaderos preferidos por los mosquitos.</p>
 </section>
 <section id="índices-estegomía" class="level3" data-number="2.1.3">
 <h3 data-number="2.1.3" class="anchored" data-anchor-id="índices-estegomía"><span class="header-section-number">2.1.3</span> Índices Estegomía</h3>
 <p>Para evaluar la presencia y densidad de mosquitos Aedes, se utilizan diversos índices entomológicos particularmente los índices de estegomía se calculan en los estudios entomológicos de fase larvar y pupal. Las metodologías más comunes emplean procedimientos de muestreo de larvas en lugar de recolecciones de huevos o adultos. La unidad básica de muestreo es la casa o localidad, donde se busca sistemáticamente recipientes para almacenar agua.</p>
 <section id="índice-de-casa-positiva-hi" class="level4" data-number="2.1.3.1">
 <h4 data-number="2.1.3.1" class="anchored" data-anchor-id="índice-de-casa-positiva-hi"><span class="header-section-number">2.1.3.1</span> índice de casa positiva (HI)</h4>
-<p>El índice de casa positiva se ha utilizado más ampliamente para monitorear los niveles de infestación, pero no toma en cuenta la cantidad de contenedores positivos ni la productividad de esos contenedores.</p>
+<p>El índice de casa positiva (local) (HI), es decir, porcentaje de casas infestadas con larvas, pupas o ambas.</p>
+<pre><code>  HI = Casas infestadas/casas inspeccionadas X 100</code></pre>
+<p>Se utiliza ampliamente para monitorear los niveles de infestación, pero no toma en cuenta la cantidad de contenedores positivos ni la productividad de esos contenedores.</p>
 </section>
 <section id="índice-de-contenedor-positivo-ci" class="level4" data-number="2.1.3.2">
 <h4 data-number="2.1.3.2" class="anchored" data-anchor-id="índice-de-contenedor-positivo-ci"><span class="header-section-number">2.1.3.2</span> índice de contenedor positivo (CI)</h4>
+<p>El índice de contenedor positivo (CI), es decir, porcentaje de recipientes que contienen agua y están infestados con larvas o pupas.</p>
+<pre><code>CI = Recipientes positivos / recipientes inspeccionados X 100</code></pre>
 <p>El índice de contenedores sólo proporciona información sobre la proporción de contenedores con agua que son positivos con larvas o pupas de mosquito.</p>
-<p>Los contenedores se examinan para detectar la presencia de larvas y pupas de mosquitos. Dependiendo de los objetivos del estudio, la búsqueda podrá finalizar tan pronto como se encuentren larvas de mosquito, o podrá continuar hasta que se hayan examinado todos los contenedores. Es necesaria la recolección de especímenes para examinar en laboratorio para confirmar las especies presente.</p>
+<p>Los contenedores se examinan para detectar la presencia de larvas y pupas de mosquitos. Es necesaria la recolección de especímenes para examinar en laboratorio para confirmar las especies presente.</p>
 </section>
 <section id="índice-de-breteau-bi" class="level4" data-number="2.1.3.3">
 <h4 data-number="2.1.3.3" class="anchored" data-anchor-id="índice-de-breteau-bi"><span class="header-section-number">2.1.3.3</span> índice de Breteau (BI)</h4>
+<p>El índice Breteau (BI) – es decir, número de recipientes positivos por cada 100 casas inspeccionadas.</p>
+<pre><code>BI = Número de recipientes positivos / casas inspeccionadas X 100</code></pre>
 <p>El índice Breteau establece una relación entre contenedores positivos y casas, y se considera el más informativo, pero nuevamente no refleja la productividad de los contenedores. Sin embargo, en el curso de la recopilación de información básica para calcular el índice de Breteau, es posible y deseable obtener un perfil de las características del hábitat de las larvas registrando simultáneamente la abundancia relativa de los diversos tipos de contenedores, ya sea como sitios potenciales o reales de producción de mosquitos. (por ejemplo, número de tambores positivos por 100 casas, número de neumáticos positivos por 100 casas, etc.). Estos datos son particularmente relevantes para centrar esfuerzos para la gestión o eliminación de los hábitats más comunes y para la orientación de mensajes educativos en apoyo de iniciativas comunitarias.</p>
 </section>
 <section id="los-índices-estegomía-herramientas-clave-para-la-lucha-contra-el-dengue" class="level4" data-number="2.1.3.4">
@@ -225,10 +252,19 @@ ul.task-list li input[type="checkbox"] {
 <p>La actividad de EE consiste en muestrear larvas (inmaduras activas, incluyendo pupas) en lugar de capturar huevos o mosquitos adultos. Se realizan búsquedas sistemáticas para detectar recipientes que contengan agua, y se inspeccionan para detectar la presencia de larvas, pupas y restos de larvas y pupas de mosquitos. Esta actividad evalúa una muestra antes (encuesta) y después (verificación) de las actividades de control integral para determinar el riesgo entomológico en un área trabajada (sectores o localidades) y si es necesario reforzar las acciones de control.</p>
 <section id="descripción-de-la-base-de-datos" class="level3" data-number="2.2.1">
 <h3 data-number="2.2.1" class="anchored" data-anchor-id="descripción-de-la-base-de-datos"><span class="header-section-number">2.2.1</span> Descripción de la base de datos</h3>
-<p>La descarga de datos sobre la actividad de EE de la p</p>
-
-
+<p>La base de datos de Estudio entomológico se descarga en un archivo .txt de la Plataforma “Vigilancia Entomológica y Control Integral del Vector”, tiene 121 variables de las cuales consideramos 16 de interés, 3 de ellas se dividen en dos por lo que resultan en 19</p>
 </section>
+</section>
+<section id="tdd" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="tdd"><span class="header-section-number">2.3</span> TDD</h2>
+<p>Se sigue el modelo de desarrollo basado test driven development basado en tidyr y devtools tidyr Manipulación de los datos Estilo de codificación devtools Documentación (roxygen2 ) Pruebas unitarias (testthat) CRAN (Comprehensive R Archive Network)</p>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-gobmx2023" class="csl-entry" role="listitem">
+Secretaría de Salud, CENAPRESE. 2023. <span>“Dirección Del Programa de Enfermedades Transmitidas Por Vectores.”</span> <a href="https://www.gob.mx/salud/cenaprece/acciones-y-programas/direccion-del-programa-de-enfermedades-transmitidas-por-vectores">https://www.gob.mx/salud/cenaprece/acciones-y-programas/direccion-del-programa-de-enfermedades-transmitidas-por-vectores</a>.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->

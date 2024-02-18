@@ -7,15 +7,21 @@ book:
   date: "16/5/2023"
   chapters:
      - index.qmd
+     #- part: "Declaración de logros" 
+     #chapters:
+     
+     #- part: "resumen ejecutivo"
+     #chapters:
      #- Agradecimientos.qmd
      - intro.qmd
      #- resumen.qmd
+     #- part: "Reporte tecnico"
+     #chapters:   
      - Marco_teorico.qmd
      #- preliminares.qmd 
      #- objetivo.qmd 
      #- Desarrollo.qmd
-     #- paquete_de_R_stegomia.qmd
-     - limpieza_de_datos.qmd
+     #- limpieza_de_datos.qmd
      #- Conclusiones.qmd
      - referencia.qmd
 
