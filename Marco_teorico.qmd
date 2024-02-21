@@ -118,7 +118,6 @@ se puede evaluar la eficacia de estas medidas y determinar si se están
 alcanzando los objetivos deseados. Esta información permite realizar ajustes
 y mejoras en las estrategias de control para optimizar su rendimiento.
 
-### 
 
 La vigilancia epidemiológica y entomológica son fundamentales para la 
 prevención y control del dengue. Mediante la recopilación sistemática de datos
@@ -129,6 +128,8 @@ las intervenciones, para prevenir la transmisión del dengue y proteger la
 salud de la población
 
 ## Obtención de datos
+
+### El progrema estatal de vectores
 
 El Programa estatal de vigilancia entomología y control integral de 
 enfermedades trasmitidas por vector, realiza diversas actividades para la
@@ -144,9 +145,11 @@ aquellas causadas por un agente vivo (como los insectos) que ingieren
 microorganismos de la sangre que consumen de otros seres vivos y después los
 transmiten mediante sus picaduras.
 
+### Plataforma de Vigilancia Entomológica y Control Integral del Vector 
+
 Todas las actividades mencionadas se registran diariamente en una plataforma,
 donde se pueden descargar los datos para su análisis y reporte. En el caso de
-la actividad de EE, se calcula por cada área trabajada y se requiere informar semanalmente según la localidad de riesgo.
+la actividad de EE, se calcula por cada área trabajada y se requiere informar semanalmente según la localidad de riesgo [@geosis2023;].
 
 La actividad de EE consiste en muestrear larvas (inmaduras activas, incluyendo
 pupas) en lugar de capturar huevos o mosquitos adultos. Se realizan búsquedas sistemáticas para detectar recipientes que contengan agua, y se inspeccionan 
@@ -163,12 +166,53 @@ Plataforma “Vigilancia Entomológica y Control Integral del Vector”, tiene 1
 variables de las cuales consideramos 16 de interés, 3 de ellas se dividen en 
 dos por lo que resultan en 19
 
+### Datos Shape
+
+el programa estatal de vectores proporciono shapefiles de los sectores de todo
+el estado de Sonora. Estos son los sectores en los que se basa la distribución 
+de todas las actividades del programa y se usan para poder mapear las áreas
+intervenidas, planeación delas actividades, marcar el riesgo entomológico, etc.
 
 
+## Desarrollo de un paquete de R con desarrollo basado en pruevas (TDD)
 
-## TDD
+<!-- Se sigue el modelo de desarrollo basado test driven development basado en tidyr -->
+<!-- y devtools tidyr Manipulación de los datos Estilo de codificación devtools -->
+<!-- Documentación (roxygen2 ) Pruebas unitarias -->
+<!-- (testthat) CRAN (Comprehensive R Archive Network) -->
 
-Se sigue el modelo de desarrollo basado test driven development basado en tidyr
-y devtools tidyr Manipulación de los datos Estilo de codificación devtools
-Documentación (roxygen2 ) Pruebas unitarias
-(testthat) CRAN (Comprehensive R Archive Network)
+
+el desarrollo de software en R ha evolucionado hacia metodologías más 
+sofisticadas y automatizadas. El uso combinado de frameworks como Tidyverse,
+Devtools y Testthat permite crear un trabajo con desarrollo basado en pruebas
+(TDD) para proyectos de R .
+
+Tidyverse es una colección de paquetes R enfocados en la manipulación de datos,
+análisis estadístico y visualización. Su filosofía funcional facilita la 
+escritura de código modular y limpio.
+
+Devtools es un paquete R indispensable para la gestión de proyectos, 
+creación de paquetes y publicación en CRAN. Automatiza tareas comunes como la
+ejecución de pruebas y generación de documentación.
+
+Testthat es un paquete R crucial para implementar TDD. Permite escribir 
+pruebas unitarias que garantizan el funcionamiento correcto de cada función
+o módulo del código.
+
+El desarrollo basado en pruebas (TDD) es una metodología de desarrollo de 
+software en la que se escriben pruebas antes de escribir el código. Esto 
+ayuda a garantizar que el código esté bien escrito y cumpla con los requisitos.
+
+Escribir pruebas: Se definen pruebas unitarias para cada función utilizando
+Testthat.
+Desarrollar código: Se implementa el código que satisface las pruebas escritas.
+Ejecutar pruebas: Se ejecutan las pruebas para verificar el funcionamiento del
+código.
+Refactorizar: Se mejora la legibilidad y mantenibilidad del código sin 
+alterar su funcionalidad.
+Repetir: Se repiten los pasos anteriores hasta completar el desarrollo.
+
+Combinar Tidyverse, Devtools y Testthat en un flujo de trabajo TDD es una
+práctica recomendada para el desarrollo de software en R. Esta metodología 
+permite tener menos errores, crear código más robusto, legible y eficiente,
+facilitando la colaboración y el mantenimiento a largo plazo de los proyectos.

@@ -165,13 +165,15 @@ div.csl-indent {
   <li><a href="#vigilancia-epidemiológica" id="toc-vigilancia-epidemiológica" class="nav-link" data-scroll-target="#vigilancia-epidemiológica"><span class="header-section-number">2.1.1</span> Vigilancia Epidemiológica:</a></li>
   <li><a href="#vigilancia-entomológica" id="toc-vigilancia-entomológica" class="nav-link" data-scroll-target="#vigilancia-entomológica"><span class="header-section-number">2.1.2</span> Vigilancia Entomológica:</a></li>
   <li><a href="#índices-estegomía" id="toc-índices-estegomía" class="nav-link" data-scroll-target="#índices-estegomía"><span class="header-section-number">2.1.3</span> Índices Estegomía</a></li>
-  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"><span class="header-section-number">2.1.4</span> </a></li>
   </ul></li>
   <li><a href="#obtención-de-datos" id="toc-obtención-de-datos" class="nav-link" data-scroll-target="#obtención-de-datos"><span class="header-section-number">2.2</span> Obtención de datos</a>
   <ul class="collapse">
-  <li><a href="#descripción-de-la-base-de-datos" id="toc-descripción-de-la-base-de-datos" class="nav-link" data-scroll-target="#descripción-de-la-base-de-datos"><span class="header-section-number">2.2.1</span> Descripción de la base de datos</a></li>
+  <li><a href="#el-progrema-estatal-de-vectores" id="toc-el-progrema-estatal-de-vectores" class="nav-link" data-scroll-target="#el-progrema-estatal-de-vectores"><span class="header-section-number">2.2.1</span> El progrema estatal de vectores</a></li>
+  <li><a href="#plataforma-de-vigilancia-entomológica-y-control-integral-del-vector" id="toc-plataforma-de-vigilancia-entomológica-y-control-integral-del-vector" class="nav-link" data-scroll-target="#plataforma-de-vigilancia-entomológica-y-control-integral-del-vector"><span class="header-section-number">2.2.2</span> Plataforma de Vigilancia Entomológica y Control Integral del Vector</a></li>
+  <li><a href="#descripción-de-la-base-de-datos" id="toc-descripción-de-la-base-de-datos" class="nav-link" data-scroll-target="#descripción-de-la-base-de-datos"><span class="header-section-number">2.2.3</span> Descripción de la base de datos</a></li>
+  <li><a href="#datos-shape" id="toc-datos-shape" class="nav-link" data-scroll-target="#datos-shape"><span class="header-section-number">2.2.4</span> Datos Shape</a></li>
   </ul></li>
-  <li><a href="#tdd" id="toc-tdd" class="nav-link" data-scroll-target="#tdd"><span class="header-section-number">2.3</span> TDD</a></li>
+  <li><a href="#desarrollo-de-un-paquete-de-r-con-desarrollo-basado-en-pruevas-tdd" id="toc-desarrollo-de-un-paquete-de-r-con-desarrollo-basado-en-pruevas-tdd" class="nav-link" data-scroll-target="#desarrollo-de-un-paquete-de-r-con-desarrollo-basado-en-pruevas-tdd"><span class="header-section-number">2.3</span> Desarrollo de un paquete de R con desarrollo basado en pruevas (TDD)</a></li>
   </ul>
 </nav>
     </div>
@@ -238,31 +240,51 @@ div.csl-indent {
 <p>La presencia y densidad de mosquitos Aedes se correlacionan directamente con la probabilidad de transmisión del virus. Los índices entomológicos, como el índice de casa positiva o el índice de Breteau, permiten determinar el nivel de riesgo en una comunidad y, en consecuencia, tomar las medidas de prevención y control necesarias.</p>
 <p>Los índices entomológicos ayudan a identificar las zonas con mayor riesgo de transmisión, permitiendo a las autoridades sanitarias enfocar sus esfuerzos y recursos en aquellas áreas donde las acciones de control vectorial son más urgentes. De esta manera se puede priorizar las áreas de intervención.</p>
 <p>También sirven para monitorear la efectividad de las medidas de control. Al comparar los índices entomológicos antes(encuesta) y después(verificación) de la implementación de medidas de control, como la aplicación de larvicidas, el rociado de insecticidas en casos de dengue o campañas de descacharrización, se puede evaluar la eficacia de estas medidas y determinar si se están alcanzando los objetivos deseados. Esta información permite realizar ajustes y mejoras en las estrategias de control para optimizar su rendimiento.</p>
-</section>
-</section>
-<section id="section" class="level3" data-number="2.1.4">
-<h3 data-number="2.1.4" class="anchored" data-anchor-id="section"><span class="header-section-number">2.1.4</span> </h3>
 <p>La vigilancia epidemiológica y entomológica son fundamentales para la prevención y control del dengue. Mediante la recopilación sistemática de datos sobre la enfermedad y los vectores, se pueden tomar decisiones informadas para mitigar su impacto y proteger a la población. los índices entomológicos son indispensables para la vigilancia y el control del dengue. Proporcionando información valiosa para evaluar el riesgo de transmisión, y permiten la tomar decisiones estratégicas para priorizar acciones y monitorear la efectividad de las intervenciones, para prevenir la transmisión del dengue y proteger la salud de la población</p>
+</section>
 </section>
 </section>
 <section id="obtención-de-datos" class="level2" data-number="2.2">
 <h2 data-number="2.2" class="anchored" data-anchor-id="obtención-de-datos"><span class="header-section-number">2.2</span> Obtención de datos</h2>
+<section id="el-progrema-estatal-de-vectores" class="level3" data-number="2.2.1">
+<h3 data-number="2.2.1" class="anchored" data-anchor-id="el-progrema-estatal-de-vectores"><span class="header-section-number">2.2.1</span> El progrema estatal de vectores</h3>
 <p>El Programa estatal de vigilancia entomología y control integral de enfermedades trasmitidas por vector, realiza diversas actividades para la prevención de enfermedades (Control Larvario (CL), Rociado a caso (RaC), Rociado intra domiciliario (RI) y Nebulización espacial (N)) las cuales se guían con actividades de vigilancia (Vigilancia entomológica con ovitrampas, (VO) las cuales proporcionan índices de riesgo entomológico (EE), Estudios entomológicos en fase larval y pupal, y Estudios entomovirológicos (EEV)). Todo lo anterior con el fin de prevenir y controlar brotes de enfermedades trasmitidas por vector (ETV). El objetivo de todas estas acciones es prevenir y controlar brotes de enfermedades transmitidas por vectores. Las ETV son aquellas causadas por un agente vivo (como los insectos) que ingieren microorganismos de la sangre que consumen de otros seres vivos y después los transmiten mediante sus picaduras.</p>
-<p>Todas las actividades mencionadas se registran diariamente en una plataforma, donde se pueden descargar los datos para su análisis y reporte. En el caso de la actividad de EE, se calcula por cada área trabajada y se requiere informar semanalmente según la localidad de riesgo.</p>
+</section>
+<section id="plataforma-de-vigilancia-entomológica-y-control-integral-del-vector" class="level3" data-number="2.2.2">
+<h3 data-number="2.2.2" class="anchored" data-anchor-id="plataforma-de-vigilancia-entomológica-y-control-integral-del-vector"><span class="header-section-number">2.2.2</span> Plataforma de Vigilancia Entomológica y Control Integral del Vector</h3>
+<p>Todas las actividades mencionadas se registran diariamente en una plataforma, donde se pueden descargar los datos para su análisis y reporte. En el caso de la actividad de EE, se calcula por cada área trabajada y se requiere informar semanalmente según la localidad de riesgo [<span class="citation" data-cites="geosis2023">Sistema integral de monitoreo de vectores (<a href="referencia.html#ref-geosis2023" role="doc-biblioref">2023</a>)</span>;].</p>
 <p>La actividad de EE consiste en muestrear larvas (inmaduras activas, incluyendo pupas) en lugar de capturar huevos o mosquitos adultos. Se realizan búsquedas sistemáticas para detectar recipientes que contengan agua, y se inspeccionan para detectar la presencia de larvas, pupas y restos de larvas y pupas de mosquitos. Esta actividad evalúa una muestra antes (encuesta) y después (verificación) de las actividades de control integral para determinar el riesgo entomológico en un área trabajada (sectores o localidades) y si es necesario reforzar las acciones de control.</p>
-<section id="descripción-de-la-base-de-datos" class="level3" data-number="2.2.1">
-<h3 data-number="2.2.1" class="anchored" data-anchor-id="descripción-de-la-base-de-datos"><span class="header-section-number">2.2.1</span> Descripción de la base de datos</h3>
+</section>
+<section id="descripción-de-la-base-de-datos" class="level3" data-number="2.2.3">
+<h3 data-number="2.2.3" class="anchored" data-anchor-id="descripción-de-la-base-de-datos"><span class="header-section-number">2.2.3</span> Descripción de la base de datos</h3>
 <p>La base de datos de Estudio entomológico se descarga en un archivo .txt de la Plataforma “Vigilancia Entomológica y Control Integral del Vector”, tiene 121 variables de las cuales consideramos 16 de interés, 3 de ellas se dividen en dos por lo que resultan en 19</p>
 </section>
+<section id="datos-shape" class="level3" data-number="2.2.4">
+<h3 data-number="2.2.4" class="anchored" data-anchor-id="datos-shape"><span class="header-section-number">2.2.4</span> Datos Shape</h3>
+<p>el programa estatal de vectores proporciono shapefiles de los sectores de todo el estado de Sonora. Estos son los sectores en los que se basa la distribución de todas las actividades del programa y se usan para poder mapear las áreas intervenidas, planeación delas actividades, marcar el riesgo entomológico, etc.</p>
 </section>
-<section id="tdd" class="level2" data-number="2.3">
-<h2 data-number="2.3" class="anchored" data-anchor-id="tdd"><span class="header-section-number">2.3</span> TDD</h2>
-<p>Se sigue el modelo de desarrollo basado test driven development basado en tidyr y devtools tidyr Manipulación de los datos Estilo de codificación devtools Documentación (roxygen2 ) Pruebas unitarias (testthat) CRAN (Comprehensive R Archive Network)</p>
+</section>
+<section id="desarrollo-de-un-paquete-de-r-con-desarrollo-basado-en-pruevas-tdd" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="desarrollo-de-un-paquete-de-r-con-desarrollo-basado-en-pruevas-tdd"><span class="header-section-number">2.3</span> Desarrollo de un paquete de R con desarrollo basado en pruevas (TDD)</h2>
+<!-- Se sigue el modelo de desarrollo basado test driven development basado en tidyr -->
+<!-- y devtools tidyr Manipulación de los datos Estilo de codificación devtools -->
+<!-- Documentación (roxygen2 ) Pruebas unitarias -->
+<!-- (testthat) CRAN (Comprehensive R Archive Network) -->
+<p>el desarrollo de software en R ha evolucionado hacia metodologías más sofisticadas y automatizadas. El uso combinado de frameworks como Tidyverse, Devtools y Testthat permite crear un trabajo con desarrollo basado en pruebas (TDD) para proyectos de R .</p>
+<p>Tidyverse es una colección de paquetes R enfocados en la manipulación de datos, análisis estadístico y visualización. Su filosofía funcional facilita la escritura de código modular y limpio.</p>
+<p>Devtools es un paquete R indispensable para la gestión de proyectos, creación de paquetes y publicación en CRAN. Automatiza tareas comunes como la ejecución de pruebas y generación de documentación.</p>
+<p>Testthat es un paquete R crucial para implementar TDD. Permite escribir pruebas unitarias que garantizan el funcionamiento correcto de cada función o módulo del código.</p>
+<p>El desarrollo basado en pruebas (TDD) es una metodología de desarrollo de software en la que se escriben pruebas antes de escribir el código. Esto ayuda a garantizar que el código esté bien escrito y cumpla con los requisitos.</p>
+<p>Escribir pruebas: Se definen pruebas unitarias para cada función utilizando Testthat. Desarrollar código: Se implementa el código que satisface las pruebas escritas. Ejecutar pruebas: Se ejecutan las pruebas para verificar el funcionamiento del código. Refactorizar: Se mejora la legibilidad y mantenibilidad del código sin alterar su funcionalidad. Repetir: Se repiten los pasos anteriores hasta completar el desarrollo.</p>
+<p>Combinar Tidyverse, Devtools y Testthat en un flujo de trabajo TDD es una práctica recomendada para el desarrollo de software en R. Esta metodología permite tener menos errores, crear código más robusto, legible y eficiente, facilitando la colaboración y el mantenimiento a largo plazo de los proyectos.</p>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
 <div id="ref-gobmx2023" class="csl-entry" role="listitem">
 Secretaría de Salud, CENAPRESE. 2023. <span>“Dirección Del Programa de Enfermedades Transmitidas Por Vectores.”</span> <a href="https://www.gob.mx/salud/cenaprece/acciones-y-programas/direccion-del-programa-de-enfermedades-transmitidas-por-vectores">https://www.gob.mx/salud/cenaprece/acciones-y-programas/direccion-del-programa-de-enfermedades-transmitidas-por-vectores</a>.
+</div>
+<div id="ref-geosis2023" class="csl-entry" role="listitem">
+Sistema integral de monitoreo de vectores, Secretaría de Salud. 2023. <span>“Sistema de Información Geográfica Para La Vigilancia Epidemiológica de Enfermedades Transmitidas Por Vectores.”</span> <a href="http://geosis.mx/Aplicaciones/EntomologiayControlIntegral/login.aspx">http://geosis.mx/Aplicaciones/EntomologiayControlIntegral/login.aspx</a>.
 </div>
 </div>
 </section>
