@@ -10,8 +10,8 @@ decisiones en la prevención de enfermedades trasmitidas por vector.
 
 sistema integral de monitoreo de vectores http://geosis.mx/aplicaciones/sismv/
 
-ver [@Garjito2020; @Quintero2015;
-@Bowman2014; @TunLin1996; @Organization2016; @SouthEastAsia.2011; @Tedjou2020; @Braks2003; @Kamgang2010; @Kamgang2013; @Weetman2018; @Tomia; @Praptowibowo2015; @rpkgs2023; @moraga2023;]
+ver @Garjito2020; @Quintero2015;
+@Bowman2014; @TunLin1996; @Organization2016; @SouthEastAsia.2011; @Tedjou2020; @Braks2003; @Kamgang2010; @Kamgang2013; @Weetman2018; @Tomia; @Praptowibowo2015; @rpkgs2023; @moraga2023
 
 
 

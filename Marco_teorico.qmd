@@ -20,7 +20,7 @@ pública en diversas regiones del mundo. Para prevenir y controlar eficazmente
 su propagación, se hace indispensable la implementación de sistemas de
 vigilancia epidemiológica y entomológica.
 
-### Vigilancia Epidemiológica:
+### Vigilancia Epidemiológica{.unnumbered}
 
 La vigilancia epidemiológica del dengue comprende la recopilación sistemática,
 el análisis y la difusión de información sobre la enfermedad. Sus objetivos
@@ -28,7 +28,7 @@ abarcan la detección temprana de brotes, la medición de la carga de la
 enfermedad, el monitoreo de tendencias, la evaluación del impacto social y
 económico, y la guía para la planificación y asignación de recursos.
 
-### Vigilancia Entomológica:
+### Vigilancia Entomológica{.unnumbered}
 
 La vigilancia entomológica se centra en el estudio de artrópodos vectores de enfermedades, particularmente Aedes aegypti, es el principal vector del 
 Esta vigilancia es fundamental para determinar la distribución y densidad de
@@ -37,7 +37,7 @@ mosquitos, conocer la presencia y abundancia de mosquitos permite identificar
 larvales, esto ayudar a dirigir las acciones de control hacia los criaderos
 preferidos por los mosquitos.
 
-### Índices Estegomía
+### Índices Estegomía{.unnumbered}
 
 Para evaluar la presencia y densidad de mosquitos Aedes, se utilizan diversos
 índices entomológicos particularmente los índices de estegomía se calculan en
@@ -46,54 +46,71 @@ emplean procedimientos de muestreo de larvas en lugar de recolecciones de
 huevos o adultos. La unidad básica de muestreo es la casa o localidad, donde
 se busca sistemáticamente recipientes para almacenar agua.
 
-#### índice de casa positiva (HI)
+#### Ïndice de casa positiva (HI){.unnumbered}
 
-El índice de casa positiva (local) (HI), es decir, porcentaje de casas
-infestadas con larvas, pupas o ambas.
+El índice de casa positiva (HI) es definido como el porcentaje de casas
+infestadas con larvas, pupas o ambas. La @eq-hi-index  se calcula con la sigiente expresion. 
 
-```         
-  HI = Casas infestadas/casas inspeccionadas X 100
-```
+$$         
+  HI = \frac{
+   \text{Número de casas infestadas}
+  }{
+    \text{Número de casas inspeccionadas}
+  } \times 100
+$$ {#eq-hi-index}
 
-Se utiliza ampliamente para monitorear los niveles de infestación, pero no
-toma en cuenta la cantidad de contenedores positivos ni la productividad de 
-esos contenedores.
+La @eq-hi-index se utiliza ampliamente para monitorear los niveles de 
+infestación, pero no toma en cuenta la cantidad de contenedores positivos ni la productividad de esos contenedores.
 
-#### índice de contenedor positivo (CI)
+#### Ïndice de contenedor positivo (CI){.unnumbered}
 
 El índice de contenedor positivo (CI), es decir, porcentaje de recipientes que
 contienen agua y están infestados con larvas o pupas. 
 
-    CI = Recipientes positivos / recipientes inspeccionados X 100
+$$         
+  CI = \frac{
+   \text{Número de contenedores infestados}
+  }{
+    \text{Número de contenedores inspeccionados}
+  } \times 100
+$$ {#eq-ci-index}
 
 
-El índice de contenedores sólo proporciona información sobre la proporción de contenedores con agua que son positivos con larvas o pupas de mosquito.
+El @eq-ci-index sólo proporciona información sobre la proporción de contenedores con agua que son positivos con larvas o pupas de mosquito.
 
 Los contenedores se examinan para detectar la presencia de larvas y pupas de
 mosquitos. Es necesaria la recolección de especímenes para examinar en
 laboratorio para confirmar las especies presente.
 
-#### índice de Breteau (BI)
+#### Ïndice de Breteau (BI){.unnumbered}
 
 El índice Breteau (BI) – es decir, número de recipientes positivos por 
 cada 100 casas inspeccionadas. 
 
-    BI = Número de recipientes positivos / casas inspeccionadas X 100
+$$         
+  BI = \frac{
+   \text{Número de contenedores infestados}
+  }{
+    \text{Número de casas inspeccionadas}
+  } \times 100
+$$ {#eq-bi-index}
+    
 
+Se utiliza la @eq-bi-index para  establece una relación entre contenedores
+positivos y casas, y se considera el más informativo, pero nuevamente no
+refleja la productividad de los contenedores. Sin embargo, en el curso de la
+recopilación de información básica para calcular el índice de Breteau, es
+posible y deseable obtener un perfil de las características del hábitat de las
+larvas registrando simultáneamente la abundancia relativa de los diversos tipos
+de contenedores, ya sea como sitios potenciales o reales de producción de
+mosquitos. (por ejemplo, número de tambores positivos por 100 casas, 
+número de neumáticos positivos por 100 casas, etc.). Estos datos son 
+particularmente relevantes para centrar esfuerzos para la gestión o 
+eliminación de los hábitats más comunes y para la orientación de mensajes
+educativos en apoyo de iniciativas comunitarias.
 
-El índice Breteau establece una relación entre contenedores positivos y casas,
-y se considera el más informativo, pero nuevamente no refleja la productividad
-de los contenedores. Sin embargo, en el curso de la recopilación de información
-básica para calcular el índice de Breteau, es posible y deseable obtener un
-perfil de las características del hábitat de las larvas registrando
-simultáneamente la abundancia relativa de los diversos tipos de contenedores,
-ya sea como sitios potenciales o reales de producción de mosquitos. (por
-ejemplo, número de tambores positivos por 100 casas, número de neumáticos
-positivos por 100 casas, etc.). Estos datos son particularmente relevantes
-para centrar esfuerzos para la gestión o eliminación de los hábitats más
-comunes y para la orientación de mensajes educativos en apoyo de iniciativas comunitarias.
+#### Los índices Estegomía: herramientas clave para la lucha contra el dengue{.unnumbered}
 
-#### Los índices Estegomía: herramientas clave para la lucha contra el dengue
 
 Los índices entomológicos son medidas que permiten evaluar la presencia,
 abundancia y distribución del mosquito Aedes aegypti, vector del dengue. Estos
@@ -129,7 +146,7 @@ salud de la población
 
 ## Obtención de datos
 
-### El progrema estatal de vectores
+### El programa estatal de vectores{.unnumbered}
 
 El Programa estatal de vigilancia entomología y control integral de 
 enfermedades trasmitidas por vector, realiza diversas actividades para la
@@ -145,7 +162,7 @@ aquellas causadas por un agente vivo (como los insectos) que ingieren
 microorganismos de la sangre que consumen de otros seres vivos y después los
 transmiten mediante sus picaduras.
 
-### Plataforma de Vigilancia Entomológica y Control Integral del Vector 
+### Plataforma de Vigilancia Entomológica y Control Integral del Vector{.unnumbered} 
 
 Todas las actividades mencionadas se registran diariamente en una plataforma,
 donde se pueden descargar los datos para su análisis y reporte. En el caso de
@@ -159,14 +176,14 @@ mosquitos. Esta actividad evalúa una muestra antes (encuesta) y después
 riesgo entomológico en un área trabajada (sectores o localidades) y si es
 necesario reforzar las acciones de control.
 
-### Descripción de la base de datos
+### Descripción de la base de datos{.unnumbered}
 
 La base de datos de Estudio entomológico se descarga en un archivo .txt de la
 Plataforma “Vigilancia Entomológica y Control Integral del Vector”, tiene 121
 variables de las cuales consideramos 16 de interés, 3 de ellas se dividen en 
 dos por lo que resultan en 19
 
-### Datos Shape
+### Datos Shape{.unnumbered}
 
 el programa estatal de vectores proporciono shapefiles de los sectores de todo
 el estado de Sonora. Estos son los sectores en los que se basa la distribución 
@@ -175,12 +192,6 @@ intervenidas, planeación delas actividades, marcar el riesgo entomológico, etc
 
 
 ## Desarrollo de un paquete de R con desarrollo basado en pruevas (TDD)
-
-<!-- Se sigue el modelo de desarrollo basado test driven development basado en tidyr -->
-<!-- y devtools tidyr Manipulación de los datos Estilo de codificación devtools -->
-<!-- Documentación (roxygen2 ) Pruebas unitarias -->
-<!-- (testthat) CRAN (Comprehensive R Archive Network) -->
-
 
 el desarrollo de software en R ha evolucionado hacia metodologías más 
 sofisticadas y automatizadas. El uso combinado de frameworks como Tidyverse,

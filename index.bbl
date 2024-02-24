@@ -1,0 +1,866 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Bowman2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0aaeb985f569ccd121efa946b44634bd}{%
+           family={Bowman},
+           familyi={B\bibinitperiod},
+           given={Leigh\bibnamedelima R.},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=7cb86e42c56bd0db5699e7888fa5d07a}{%
+           family={Runge-Ranzinger},
+           familyi={R\bibinithyphendelim R\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0f0f44bc3de483c36d258acb9cfbb36f}{%
+           family={McCall},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {PLOS}%
+      }
+      \strng{namehash}{749a1cf5b46833a56a993f71f2aeb6e7}
+      \strng{fullhash}{749a1cf5b46833a56a993f71f2aeb6e7}
+      \strng{bibnamehash}{749a1cf5b46833a56a993f71f2aeb6e7}
+      \strng{authorbibnamehash}{749a1cf5b46833a56a993f71f2aeb6e7}
+      \strng{authornamehash}{749a1cf5b46833a56a993f71f2aeb6e7}
+      \strng{authorfullhash}{749a1cf5b46833a56a993f71f2aeb6e7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background:Despite doubts about methods used and the association between vector density and dengue transmission, routine sampling of mosquito vector populations is common in dengue-endemic countries worldwide. This study examined the evidence from published studies for the existence of any quantitative relationship between vector indices and dengue cases.Methodology/Principal Findings:From a total of 1205 papers identified in database searches following Cochrane and PRISMA Group guidelines, 18 were included for review. Eligibility criteria included 3-month study duration and dengue case confirmation by WHO case definition and/or serology.A range of designs were seen, particularly in spatial sampling and analyses, and all but 3 were classed as weak study designs. Eleven of eighteen studies generated Stegomyia indices from combined larval and pupal data. Adult vector data were reported in only three studies. Of thirteen studies that investigated associations between vector indices and dengue cases, 4 reported positive correlations, 4 found no correlation and 5 reported ambiguous or inconclusive associations. Six out of 7 studies that measured Breteau Indices reported dengue transmission at levels below the currently accepted threshold of 5.Conclusions/Significance:There was little evidence of quantifiable associations between vector indices and dengue transmission that could reliably be used for outbreak prediction. This review highlighted the need for standardized sampling protocols that adequately consider dengue spatial heterogeneity. Recommendations for more appropriately designed studies include: standardized study design to elucidate the relationship between vector abundance and dengue transmission; adult mosquito sampling should be routine; single values of Breteau or other indices are not reliable universal dengue transmission thresholds; better knowledge of vector ecology is required. © 2014 Bowman et al.}
+      \field{issn}{19352735}
+      \field{issue}{5}
+      \field{journaltitle}{PLoS Neglected Tropical Diseases}
+      \field{title}{Assessing the Relationship between Vector Indices and Dengue Transmission: A Systematic Review of the Evidence}
+      \field{volume}{8}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1371/JOURNAL.PNTD.0002848
+      \endverb
+      \verb{urlraw}
+      \verb /pmc/articles/PMC4014441/ /pmc/articles/PMC4014441/?report=abstract https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4014441/
+      \endverb
+      \verb{url}
+      \verb /pmc/articles/PMC4014441/%20/pmc/articles/PMC4014441/?report=abstract%20https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4014441/
+      \endverb
+    \endentry
+    \entry{Braks2003}{article}{}
+      \name{author}{5}{}{%
+        {{hash=0cc043f37fb699bd60608a52adfc7e86}{%
+           family={Braks},
+           familyi={B\bibinitperiod},
+           given={Marieta\bibnamedelima A.H.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7b052ff57b2e98bb3091b4a3524c55fa}{%
+           family={Honório},
+           familyi={H\bibinitperiod},
+           given={Nildimar\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6a7ab586365212c6c80c4dda629f5f71}{%
+           family={Lourenço-De-Oliveira},
+           familyi={L\bibinithyphendelim D\bibinithyphendelim O\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c14cf15f2acef9554e7f665f224ea757}{%
+           family={Juliano},
+           familyi={J\bibinitperiod},
+           given={Steven\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=85858dd697b3dda1c48f50db6de24a73}{%
+           family={Lounibos},
+           familyi={L\bibinitperiod},
+           given={L.\bibnamedelimi Philip},
+           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Entomological Society of America}%
+      }
+      \strng{namehash}{6c183e4f36dcbeb6c2e351abeb1df936}
+      \strng{fullhash}{fef3d9d92c7fa4ec2ca0071282c1fafc}
+      \strng{bibnamehash}{6c183e4f36dcbeb6c2e351abeb1df936}
+      \strng{authorbibnamehash}{6c183e4f36dcbeb6c2e351abeb1df936}
+      \strng{authornamehash}{6c183e4f36dcbeb6c2e351abeb1df936}
+      \strng{authorfullhash}{fef3d9d92c7fa4ec2ca0071282c1fafc}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{During the rainy season of 2001, the incidence of the dengue vectors Aedes aegypti and Ae. albopictus was examined in different habitats of two cities (Rio de Janeiro and Nova Iguaçu) in Rio de Janeiro State, Brazil, and in two cities (Palm Beach and Boca Raton) in Florida. Oviposition trap collections were performed in urban, suburban, and rural habitats in both areas. Our hypothesis that the abundances and frequencies of occurrence of Ae. aegypti and Ae albopictus are affected in opposite ways by increasing urbanization was only partially supported. City, habitat, and their interaction significantly affected the abundance of both species. Cities with high abundance of Ae. aegypti also had a high abundance of Ae. albopictus. The two species were most abundant in the cities of Rio de Janeiro state and the lowest in Boca Raton. Habitat had a significant but opposite effect on the abundances of Ae. aegypti and Ae. albopictus. In general, Ae. aegypti was most prevalent in highly urbanized areas and Ae. albopictus in rural, suburban, and vegetated urban areas in Rio de Janeiro state and Florida. However, abundances of the two species were similar in most suburban areas. Analyses of frequencies of occurrence showed an unexpected high level of co-occurrence of both species in the same oviposition trap. Despite the different geographical origins of Ae. albopictus in Brazil and the United States, the habitats used by this recent invader are remarkably similar in the two countries.}
+      \field{issn}{00222585}
+      \field{issue}{6}
+      \field{journaltitle}{Journal of Medical Entomology}
+      \field{title}{Convergent Habitat Segregation of Aedes aegypti and Aedes albopictus (Diptera: Culicidae) in Southeastern Brazil and Florida}
+      \field{volume}{40}
+      \field{year}{2003}
+      \field{pages}{785\bibrangedash 794}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1603/0022-2585-40.6.785
+      \endverb
+      \keyw{Abundance,Brazil,Dengue vectors,Occurrence,United States}
+    \endentry
+    \entry{Garjito2020}{article}{}
+      \name{author}{13}{}{%
+        {{hash=6699787d704ad8cf39273072eed16296}{%
+           family={Garjito},
+           familyi={G\bibinitperiod},
+           given={Triwibowo\bibnamedelima Ambar},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=02c9b1b8a6ed57f46e12968c446df667}{%
+           family={Hidajat},
+           familyi={H\bibinitperiod},
+           given={Muhammad\bibnamedelima Choirul},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=57437384f23892281516c83f51b04c0f}{%
+           family={Kinansi},
+           familyi={K\bibinitperiod},
+           given={Revi\bibnamedelima Rosavika},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=47e5397434245396a1b650581c6138a2}{%
+           family={Setyaningsih},
+           familyi={S\bibinitperiod},
+           given={Riyani},
+           giveni={R\bibinitperiod}}}%
+        {{hash=647dc208fdad8f9faa634a500d4945ad}{%
+           family={Anggraeni},
+           familyi={A\bibinitperiod},
+           given={Yusnita\bibnamedelima Mirna},
+           giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7eb7aebc5ed7dd4c060a8935b6cd95a1}{%
+           family={Mujiyanto},
+           familyi={M\bibinitperiod}}}%
+        {{hash=99c89d35db45d4564314d6e7dbf359ad}{%
+           family={Trapsilowati},
+           familyi={T\bibinitperiod},
+           given={Wiwik},
+           giveni={W\bibinitperiod}}}%
+        {{hash=03a3710dd84accc5c8a0538542706b8a}{%
+           family={Jastal},
+           familyi={J\bibinitperiod}}}%
+        {{hash=70f3fe672a5f09a94588d813d3fed03a}{%
+           family={Ristiyanto},
+           familyi={R\bibinitperiod}}}%
+        {{hash=aaf677e76b3dbb12806a9d2c8b99e56c}{%
+           family={Satoto},
+           familyi={S\bibinitperiod},
+           given={Tri\bibnamedelimb Baskoro\bibnamedelima Tunggul},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=a6ae62eb8310162e115b71415654a928}{%
+           family={Gavotte},
+           familyi={G\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+        {{hash=990ffda945c3ded717a5c4fb2df8ad09}{%
+           family={Manguin},
+           familyi={M\bibinitperiod},
+           given={Sylvie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3a55db2d67979696fdb9736a6e9ad894}{%
+           family={Frutos},
+           familyi={F\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media S.A.}%
+      }
+      \strng{namehash}{15cf8b90623ae02da88ad2b74e13aeb7}
+      \strng{fullhash}{0024feb85fff760d4ee23e33168db2e4}
+      \strng{bibnamehash}{15cf8b90623ae02da88ad2b74e13aeb7}
+      \strng{authorbibnamehash}{15cf8b90623ae02da88ad2b74e13aeb7}
+      \strng{authornamehash}{15cf8b90623ae02da88ad2b74e13aeb7}
+      \strng{authorfullhash}{0024feb85fff760d4ee23e33168db2e4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dengue is present in 128 countries worldwide and is still expanding. There is currently no treatment or universally approved vaccine available. Therefore, prevention and control of mosquito vectors remain the most efficient ways of managing the risk of dengue outbreaks. The Stegomyia indices have been developed as quantitative indicators of the risk of dengue outbreaks. However, conflictual data are circulating about their reliability. We report in this article the first extensive study on Stegomyia indices, covering 78 locations of differing environmental and socio-economic conditions, climate, and population density across Indonesia, from West Sumatra to Papua. A total of 65,876 mosquito larvae and pupae were collected for the study. A correlation was found between incidence and human population density. No correlation was found between the incidence of dengue and the Stegomyia indices.}
+      \field{issn}{22962565}
+      \field{journaltitle}{Frontiers in Public Health}
+      \field{month}{7}
+      \field{title}{Stegomyia Indices and Risk of Dengue Transmission: A Lack of Correlation}
+      \field{volume}{8}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.3389/fpubh.2020.00328
+      \endverb
+      \keyw{Aedes aegypti,Aedes albopictus,Stegomyia indices,dengue,incidence,mosquito-borne disease}
+    \endentry
+    \entry{Kamgang2010}{article}{}
+      \name{author}{7}{}{%
+        {{hash=49a91d5a5b15a8fcc2959490e8db39c3}{%
+           family={Kamgang},
+           familyi={K\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=0269494daf117540d79c805b0d1fa4a0}{%
+           family={Happi},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi Y.},
+           giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=9470a5a3f4f3e981dc0e3c8ecfd6eaf5}{%
+           family={Boisier},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=abe0f14036eb7bdc73d96f33586d1c06}{%
+           family={Njiokou},
+           familyi={N\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=62a329f9d141ef444f4f3bb401442c18}{%
+           family={Hervé},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=4485212f2ea143da4f7357bae7b7b979}{%
+           family={Simard},
+           familyi={S\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=20a7f73914b63086f514e5c8e0234714}{%
+           family={Paupy},
+           familyi={P\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{30674502bac8617235ea5829128d0bda}
+      \strng{fullhash}{d1ec6ac908b142576d59e42d35d2c1eb}
+      \strng{bibnamehash}{30674502bac8617235ea5829128d0bda}
+      \strng{authorbibnamehash}{30674502bac8617235ea5829128d0bda}
+      \strng{authornamehash}{30674502bac8617235ea5829128d0bda}
+      \strng{authorfullhash}{d1ec6ac908b142576d59e42d35d2c1eb}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Aedes albopictus (Diptera: Culicidae) was first reported in Central Africa in 2000, together with the indigenous mosquito species Aedes aegypti (Diptera: Culicidae). Because Ae. albopictus can also transmit arboviruses, its introduction is a public health concern. We undertook a comparative study in three Cameroonian towns (Sahelian domain: Garoua; equatorial domain: Douala and Yaoundé) in order to document infestation by the two species and their ecological preferences. High and variable levels of pre-imaginal Ae. aegypti and Ae. albopictus infestation were detected. Only Ae. aegypti was encountered in Garoua, whereas both species were found in Douala and Yaoundé, albeit with significant differences in their relative prevalence. Peridomestic water containers were the most strongly colonized and productive larval habitats for both species. No major differences in types of larval habitat were found, but Ae. albopictus preferentially bred in containers containing plant debris or surrounded by vegetation, whereas Ae. aegypti tended to breed in containers located in environments with a high density of buildings. These findings may have important implications for vector control strategies. © 2010 The Authors. Journal compilation © 2010 The Royal Entomological Society.}
+      \field{issn}{0269283X}
+      \field{issue}{2}
+      \field{journaltitle}{Medical and Veterinary Entomology}
+      \field{month}{6}
+      \field{title}{Geographic and ecological distribution of the dengue and chikungunya virus vectors Aedes aegypti and Aedes albopictus in three major Cameroonian towns}
+      \field{volume}{24}
+      \field{year}{2010}
+      \field{pages}{132\bibrangedash 141}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1111/j.1365-2915.2010.00869.x
+      \endverb
+      \keyw{Aedes aegypti,Aedes albopictus,Cameroon,Larval ecology,Typology,Urban environment}
+    \endentry
+    \entry{Kamgang2013}{article}{}
+      \name{author}{6}{}{%
+        {{hash=b3096c50b2ed3ce3d8a0131573679c2f}{%
+           family={Kamgang},
+           familyi={K\bibinitperiod},
+           given={Basile},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a0285fd90ce514045cb2a0b59a72e27f}{%
+           family={Ngoagouni},
+           familyi={N\bibinitperiod},
+           given={Carine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=293cb1c975f076c4e099c02afc18c70c}{%
+           family={Manirakiza},
+           familyi={M\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=88351698ce70b6e1a6f3cd1138f7ea2f}{%
+           family={Nakouné},
+           familyi={N\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1dd3a3ffd8398a80de0ec4b988f7d12a}{%
+           family={Paupy},
+           familyi={P\bibinitperiod},
+           given={Christophe},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7d6a85eba912a18030a9a998a1726347}{%
+           family={Kazanji},
+           familyi={K\bibinitperiod},
+           given={Mirdad},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{5d6075d532d3e401100193e4f86f5572}
+      \strng{fullhash}{525dd1be947651ba754eb66cd185f1ff}
+      \strng{bibnamehash}{5d6075d532d3e401100193e4f86f5572}
+      \strng{authorbibnamehash}{5d6075d532d3e401100193e4f86f5572}
+      \strng{authornamehash}{5d6075d532d3e401100193e4f86f5572}
+      \strng{authorfullhash}{525dd1be947651ba754eb66cd185f1ff}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The invasive Asian tiger mosquito Aedes albopictus (Diptera: Culicidae) was first reported in central Africa in 2000, in Cameroon, with the indigenous mosquito species Ae. aegypti (Diptera: Culicidae). Today, this invasive species is present in almost all countries of the region, including the Central African Republic (CAR), where it was first recorded in 2009. As invasive species of mosquitoes can affect the distribution of native species, resulting in new patterns of vectors and concomitant risk for disease, we undertook a comparative study early and late in the wet season in the capital and the main cities of CAR to document infestation and the ecological preferences of the two species. In addition, we determined the probable geographical origin of invasive populations of Ae. albopictus with two mitochondrial DNA genes, COI and ND5. Analysis revealed that Ae. aegypti was more abundant earlier in the wet season and Ae. albopictus in the late wet season. Used tyres were the most heavily colonized productive larval habitats for both species in both seasons. The invasive species Ae. albopictus predominated over the resident species at all sites in which the two species were sympatric. Mitochondrial DNA analysis revealed broad low genetic diversity, confirming recent introduction of Ae. albopictus in CAR. Phylogeographical analysis based on COI polymorphism indicated that the Ae. albopictus haplotype in the CAR population segregated into two lineages, suggesting multiple sources of Ae. albopictus. These data may have important implications for vector control strategies in central Africa. © 2013 Kamgang et al.}
+      \field{issn}{19352735}
+      \field{issue}{12}
+      \field{journaltitle}{PLoS Neglected Tropical Diseases}
+      \field{title}{Temporal Patterns of Abundance of Aedes aegypti and Aedes albopictus (Diptera: Culicidae) and Mitochondrial DNA Analysis of Ae. albopictus in the Central African Republic}
+      \field{volume}{7}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.1371/journal.pntd.0002590
+      \endverb
+    \endentry
+    \entry{moraga2023}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0151ebc89c3d2cd5341a8f57b1f51d78}{%
+           family={Moraga},
+           familyi={M\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{location}{1}{%
+        {Boca Raton, FL, USA}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{0151ebc89c3d2cd5341a8f57b1f51d78}
+      \strng{fullhash}{0151ebc89c3d2cd5341a8f57b1f51d78}
+      \strng{bibnamehash}{0151ebc89c3d2cd5341a8f57b1f51d78}
+      \strng{authorbibnamehash}{0151ebc89c3d2cd5341a8f57b1f51d78}
+      \strng{authornamehash}{0151ebc89c3d2cd5341a8f57b1f51d78}
+      \strng{authorfullhash}{0151ebc89c3d2cd5341a8f57b1f51d78}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Geocomputation with R}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.paulamoraga.com/book-geospatial/index.html
+      \endverb
+      \verb{url}
+      \verb https://www.paulamoraga.com/book-geospatial/index.html
+      \endverb
+    \endentry
+    \entry{Organization2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8179b1fdebe9235e54501d2878c47e1b}{%
+           family={Organization},
+           familyi={O\bibinitperiod},
+           given={World\bibnamedelima Health},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {WHO Regional Office for South-East Asia}%
+      }
+      \strng{namehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{fullhash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{bibnamehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authorbibnamehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authornamehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authorfullhash}{8179b1fdebe9235e54501d2878c47e1b}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Entomological surveillance of Aedes mosquitoes is used for operational (and research) purposes to determine changes in geographical distribution, for monitoring and evaluating control programmes, for obtaining relative measurements of the vector population over time, and for facilitating appropriate and timely decisions regarding interventions. There are a number of methods for monitoring vectors (mostly Aedes aegypti) of arboviral diseases. However, the selection and use of a method requires a clear understanding of the surveillance objectives, the availability of skills and resources, and in some instances the level of infestation. Surveillance may serve to identify areas of high-density infestation or periods of increasing mosquito populations. In areas where the vector is no longer present, entomological surveillance is critical in order to rapidly detect new introductions, before they become widespread and difficult to eliminate. Monitoring of the susceptibility of the vector population to insecticide should also be an integral part of any programme that uses insecticides. Separate guidance on monitoring and managing insecticide resistance in Aedes populations can be found at http://www.who.int/csr/resources/publications/zika/insecticide-resistance. This document describes selected sampling methods that can be used to conduct surveillance of Aedes mosquitoes, pupae and oviposition. It is intended for qualified entomologists at national and sub-national level who are responsible for the surveillance of local Aedes populations.}
+      \field{isbn}{978-92-9022-387-0}
+      \field{title}{Entomological surveillance for Aedes spp. in the context of Zika virus. Interim guidance for entomologists}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://iris.who.int/handle/10665/204894
+      \endverb
+      \verb{url}
+      \verb https://iris.who.int/handle/10665/204894
+      \endverb
+    \endentry
+    \entry{Praptowibowo2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b5cf95cd7134cc9ba8813aaf53167c52}{%
+           family={Praptowibowo},
+           familyi={P\bibinitperiod},
+           given={Wahyu},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5cf95cd7134cc9ba8813aaf53167c52}
+      \strng{fullhash}{b5cf95cd7134cc9ba8813aaf53167c52}
+      \strng{bibnamehash}{b5cf95cd7134cc9ba8813aaf53167c52}
+      \strng{authorbibnamehash}{b5cf95cd7134cc9ba8813aaf53167c52}
+      \strng{authornamehash}{b5cf95cd7134cc9ba8813aaf53167c52}
+      \strng{authorfullhash}{b5cf95cd7134cc9ba8813aaf53167c52}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dengue haemorhagic fever (DHF) is an acute febrile disease caused by the dengue virus, which the human bloodstream through the bite of the Aedes aegypti. Semarang City in 2013 has 143 endemic villages, sporadic 33, and a potential one, and 2,364 cases with IR 134.09 / 100,000 inhabitants and CFR 1.14%. Maya Index (MI) can be used to evaluate the breeding place of mosquito eradication program (PSN). The purpose of this study was to determine the MI and density of larvae (HI, ABJ, CI, and BI) in endemic areas, sporadic, and potential. This study used an observational study in (cross-sectional). The sample in this study was taken as many as 300 house with simple random sampling method. Results showed that the rate of MI in the Mijen village 7% (low), 61% (medium), 32% (high) with a value of HI, ABJ, CI, and BI respectively 28%, 72%, 9.94%, 34. Bubakan village MI and 16% (low), 65% (medium), 19% (high) and HI (43%), ABJ (57%), CI (24.36%) and BI (57). While in the Polaman village MI 21% (low), 62% (medium), 17% (high) serata HI (35%), ABJ (65%), CI (20.87%), and BI (48). MI in endemic areas, sporadic, and their potential to have a high MI categories with larval density above the safe limit larval density (5%). PSN in endemic areas, sporadic, and potentially not run properly so it needs to be refreshing about the importance of the PSN in the prevention of dengue to the community in the sporadic village (Mijen), and in particular the potential for MI endemic villages with most high category.}
+      \field{isbn}{19,29/100.000}
+      \field{issue}{2}
+      \field{title}{Maya Index dan Gambaran Habitat Perkembangbiakan Larva Aedes sp. Berdasarkan Endemisitas DBD di Kota Semarang Provinsi Jawa Tengah}
+      \field{volume}{3}
+      \field{year}{2015}
+      \field{pages}{2356\bibrangedash 3346}
+      \range{pages}{991}
+      \verb{urlraw}
+      \verb http://ejournal-s1.undip.ac.id/index.php/jkm
+      \endverb
+      \verb{url}
+      \verb http://ejournal-s1.undip.ac.id/index.php/jkm
+      \endverb
+      \keyw{Maya Index,density of larvae,endemic area PENDAHULUAN}
+    \endentry
+    \entry{Quintero2015}{article}{}
+      \name{author}{8}{}{%
+        {{hash=cb73f5c6cc075a97e279b577cd36c6a2}{%
+           family={Quintero},
+           familyi={Q\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=131f00118463597abf47634011ebf140}{%
+           family={Garcia-Betancourt},
+           familyi={G\bibinithyphendelim B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=05b15ec1f6b5d26f56a7664dac7a4614}{%
+           family={Cortes},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6e1a5c200ed350bf8aa99bdff45320f8}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7b863f12087e6dce7b290d6158b43686}{%
+           family={Alcala},
+           familyi={A\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=82dd7ab30de3f12e348c47b47709db6a}{%
+           family={Gonzalez-Uribe},
+           familyi={G\bibinithyphendelim U\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ea6509b9e318ac2797f874144cd119df}{%
+           family={Brochero},
+           familyi={B\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a3c5aaf38d2ad3f35030406c25cddad0}{%
+           family={Carrasquilla},
+           familyi={C\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{990c3ba37948edb334332e414af08dd2}
+      \strng{fullhash}{f758a67363a1284fa30301816de8264f}
+      \strng{bibnamehash}{990c3ba37948edb334332e414af08dd2}
+      \strng{authorbibnamehash}{990c3ba37948edb334332e414af08dd2}
+      \strng{authornamehash}{990c3ba37948edb334332e414af08dd2}
+      \strng{authorfullhash}{f758a67363a1284fa30301816de8264f}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: Long-lasting insecticide-treated net (LLIN) window and door curtains alone or in combination with LLIN water container covers were analysed regarding effectiveness in reducing dengue vector density, and feasibility of the intervention. Methods: A cluster randomised trial was conducted in an urban area of Colombia comparing 10 randomly selected control and 10 intervention clusters. In control clusters, routine vector control activities were performed. The intervention delivered first, LLIN curtains (from July to August 2013) and secondly, water container covers (from October to March 2014). Cross-sectional entomological surveys were carried out at baseline (February 2013 to June 2013), 9 weeks after the first intervention (August to October 2013), and 4-6 weeks after the second intervention (March to April 2014). Results: Curtains were installed in 922 households and water container covers in 303 households. The Breteau index (BI) fell from 14 to 6 in the intervention group and from 8 to 5 in the control group. The additional intervention with LLIN covers for water containers showed a significant reduction in pupae per person index (PPI) (p=0.01). In the intervention group, the PPI index showed a clear decline of 71% compared with 25% in the control group. Costs were high but options for cost savings were identified. Conclusions: Short term impact evaluation indicates that the intervention package can reduce dengue vector density but sustained effect will depend on multiple factors.}
+      \field{issn}{0035-9203}
+      \field{issue}{2}
+      \field{journaltitle}{Transactions of the Royal Society of Tropical Medicine and Hygiene}
+      \field{month}{2}
+      \field{title}{Effectiveness and feasibility of long-lasting insecticide-treated curtains and water container covers for dengue vector control in Colombia: a cluster randomised trial}
+      \field{volume}{109}
+      \field{year}{2015}
+      \field{pages}{116\bibrangedash 125}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1093/trstmh/tru208
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/trstmh/article-lookup/doi/10.1093/trstmh/tru208
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/trstmh/article-lookup/doi/10.1093/trstmh/tru208
+      \endverb
+      \keyw{Aedes,Colombia,Dengue,Long-lasting insecticide-treated nets,Public health,Randomised controlled trial}
+    \endentry
+    \entry{gobmx2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7f9ac899c5d3155afc1589869cb92533}{%
+           family={Secretaría\bibnamedelimb de\bibnamedelima Salud},
+           familyi={S\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={CENAPRESE},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f9ac899c5d3155afc1589869cb92533}
+      \strng{fullhash}{7f9ac899c5d3155afc1589869cb92533}
+      \strng{bibnamehash}{7f9ac899c5d3155afc1589869cb92533}
+      \strng{authorbibnamehash}{7f9ac899c5d3155afc1589869cb92533}
+      \strng{authornamehash}{7f9ac899c5d3155afc1589869cb92533}
+      \strng{authorfullhash}{7f9ac899c5d3155afc1589869cb92533}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Dirección del Programa de Enfermedades Transmitidas por Vectores}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.gob.mx/salud/cenaprece/acciones-y-programas/direccion-del-programa-de-enfermedades-transmitidas-por-vectores
+      \endverb
+      \verb{url}
+      \verb https://www.gob.mx/salud/cenaprece/acciones-y-programas/direccion-del-programa-de-enfermedades-transmitidas-por-vectores
+      \endverb
+    \endentry
+    \entry{geosis2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4de1ccf6f3e507490c855dee34304670}{%
+           family={Sistema\bibnamedelimb integral\bibnamedelimb de\bibnamedelimb monitoreo\bibnamedelimb de\bibnamedelima vectores},
+           familyi={S\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim m\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim v\bibinitperiod},
+           given={Secretaría\bibnamedelimb de\bibnamedelima Salud},
+           giveni={S\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{4de1ccf6f3e507490c855dee34304670}
+      \strng{fullhash}{4de1ccf6f3e507490c855dee34304670}
+      \strng{bibnamehash}{4de1ccf6f3e507490c855dee34304670}
+      \strng{authorbibnamehash}{4de1ccf6f3e507490c855dee34304670}
+      \strng{authornamehash}{4de1ccf6f3e507490c855dee34304670}
+      \strng{authorfullhash}{4de1ccf6f3e507490c855dee34304670}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sistema de Información Geográfica para la Vigilancia Epidemiológica de Enfermedades Transmitidas por Vectores}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb http://geosis.mx/Aplicaciones/EntomologiayControlIntegral/login.aspx
+      \endverb
+      \verb{url}
+      \verb http://geosis.mx/Aplicaciones/EntomologiayControlIntegral/login.aspx
+      \endverb
+    \endentry
+    \entry{SouthEastAsia.2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7454a4386e34cb9c5801872048789059}{%
+           family={South-East\bibnamedelima Asia.},
+           familyi={S\bibinithyphendelim E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={World\bibnamedelimb Health\bibnamedelimb Organization.\bibnamedelimi Regional\bibnamedelima Office},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim O\bibinitperiod},
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {World Health Organization Regional Office for South-East Asia}%
+      }
+      \strng{namehash}{7454a4386e34cb9c5801872048789059}
+      \strng{fullhash}{7454a4386e34cb9c5801872048789059}
+      \strng{bibnamehash}{7454a4386e34cb9c5801872048789059}
+      \strng{authorbibnamehash}{7454a4386e34cb9c5801872048789059}
+      \strng{authornamehash}{7454a4386e34cb9c5801872048789059}
+      \strng{authorfullhash}{7454a4386e34cb9c5801872048789059}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Rev. and expanded. ed. Introduction -- Disease burden of dengue fever and dengue haemorrhagic fever -- Epidemiology of dengue fever and dengue haemorrhagic fever -- Clinical manifestations and diagnosis -- Clinical management of dengue/dengue haemorrhagic fever -- Disease survillance : epidemiological and entomological -- Integrated Vector Management (IVM) -- Communication for behavioural Impact (COMBI) -- The primary health care approach to dengue prevention and control -- Case investigation, emergency preparedness and outbreak response -- Monitoring and evaluation of DF/D HF prevention and contral programmes -- Strategic plan for the prevention and control of dengue in the Asia-Pacific region : a bi-regional approach (2008-2015).}
+      \field{isbn}{9789290223870}
+      \field{title}{Comprehensive guidelines for prevention and control of dengue and dengue haemorrhagic fever.}
+      \field{year}{2011}
+      \field{pages}{196}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://iris.who.int/handle/10665/204894
+      \endverb
+      \verb{url}
+      \verb https://iris.who.int/handle/10665/204894
+      \endverb
+    \endentry
+    \entry{rpkgs2023}{book}{}
+      \name{author}{1}{}{%
+        {{hash=48cca18d43976d568bb4fd2774bc2d1f}{%
+           family={Statistical\bibnamedelima Computing},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={R\bibnamedelima Foundation},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{publisher}{1}{%
+        {R Foundation for Statistical Computing}%
+      }
+      \strng{namehash}{48cca18d43976d568bb4fd2774bc2d1f}
+      \strng{fullhash}{48cca18d43976d568bb4fd2774bc2d1f}
+      \strng{bibnamehash}{48cca18d43976d568bb4fd2774bc2d1f}
+      \strng{authorbibnamehash}{48cca18d43976d568bb4fd2774bc2d1f}
+      \strng{authornamehash}{48cca18d43976d568bb4fd2774bc2d1f}
+      \strng{authorfullhash}{48cca18d43976d568bb4fd2774bc2d1f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2.0}
+      \field{isbn}{978-3-900051-27-7}
+      \field{title}{R Packages}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://r-pkgs.org/index.html
+      \endverb
+      \verb{url}
+      \verb https://r-pkgs.org/index.html
+      \endverb
+    \endentry
+    \entry{Tedjou2020}{article}{}
+      \name{author}{6}{}{%
+        {{hash=915fe2048adc7581111ecfceba8c80bd}{%
+           family={Tedjou},
+           familyi={T\bibinitperiod},
+           given={Armel\bibnamedelima N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=b3096c50b2ed3ce3d8a0131573679c2f}{%
+           family={Kamgang},
+           familyi={K\bibinitperiod},
+           given={Basile},
+           giveni={B\bibinitperiod}}}%
+        {{hash=11289ae6f9f6dd3737955dfb8eb6c018}{%
+           family={Yougang},
+           familyi={Y\bibinitperiod},
+           given={Aurélie\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8a0b3037ead94a979dffe1585fda11f9}{%
+           family={Wilson-Bahun},
+           familyi={W\bibinithyphendelim B\bibinitperiod},
+           given={Theodel\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=98e454dbd6c2a62ddb45016787b4e32d}{%
+           family={Njiokou},
+           familyi={N\bibinitperiod},
+           given={Flobert},
+           giveni={F\bibinitperiod}}}%
+        {{hash=652b9ef763b17d0c232248031ab4b727}{%
+           family={Wondji},
+           familyi={W\bibinitperiod},
+           given={Charles\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI AG}%
+      }
+      \strng{namehash}{299e34ab8aea5a9c24b441d8b1a1e0fd}
+      \strng{fullhash}{8d952556875bdfe1e6d6eb24f6934b20}
+      \strng{bibnamehash}{299e34ab8aea5a9c24b441d8b1a1e0fd}
+      \strng{authorbibnamehash}{299e34ab8aea5a9c24b441d8b1a1e0fd}
+      \strng{authornamehash}{299e34ab8aea5a9c24b441d8b1a1e0fd}
+      \strng{authorfullhash}{8d952556875bdfe1e6d6eb24f6934b20}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{<p>The dynamic of arbovirus vectors such as Aedes aegypti and Ae. albopictus remains poorly understood in large cities in central Africa. Here, we compared the larval ecology, geographical distribution and degree of infestation of Ae. aegypti and Ae. albopictus in Yaoundé, the capital city of Cameroon, and estimated their Stegomyia indices revealing a significant potential risk of arbovirus transmission. An entomological survey was conducted in April–May 2018 in a cluster of houses randomly selected. Each selected house was inspected, the number of inhabitants was recorded, and potential and positive containers for Aedes were characterized. Stegomyia and pupae-based indices were estimated. Overall, 447 houses and 954 containers were inspected comprising 10,801 immature stages of Aedes with 84.95% of Ae. albopictus and 15.05% of Ae. aegypti. Both species bred mainly in discarded tanks and used tyres, associated with turbid water and the presence of plant debris inside containers. Aedes albopictus was the most prevalent species in almost all neighbourhoods. The house index, Breteau index, and container index were higher for Ae. albopictus (38.26%, 71.81%, and 29.61%) compared to those of Ae. aegypti (25.73%, 40.93%, and 16.88%). These indices are high compared to the thresholds established by Pan American Health Organization and World Health Organization, which suggests a high potential risk of arbovirus transmission.</p>}
+      \field{issn}{2076-0817}
+      \field{issue}{6}
+      \field{journaltitle}{Pathogens}
+      \field{month}{6}
+      \field{title}{Patterns of Ecological Adaptation of Aedes aegypti and Aedes albopictus and Stegomyia Indices Highlight the Potential Risk of Arbovirus Transmission in Yaoundé, the Capital City of Cameroon}
+      \field{volume}{9}
+      \field{year}{2020}
+      \field{pages}{491}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/pathogens9060491
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2076-0817/9/6/491
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2076-0817/9/6/491
+      \endverb
+      \keyw{Aedes aegypti,Aedes albopictus,Arbovirus,Cameroon,Stegomyia indices}
+    \endentry
+    \entry{Tomia}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3786ef612093c7ffdd61e8194c79cfd3}{%
+           family={Tomia},
+           familyi={T\bibinitperiod},
+           given={Amalan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f1dc412ef690ca35031b1d9887388db3}{%
+           family={Tuhatea},
+           familyi={T\bibinitperiod},
+           given={Rosmila},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{da2888a4c1e8287662c6de7636aebc52}
+      \strng{fullhash}{da2888a4c1e8287662c6de7636aebc52}
+      \strng{bibnamehash}{da2888a4c1e8287662c6de7636aebc52}
+      \strng{authorbibnamehash}{da2888a4c1e8287662c6de7636aebc52}
+      \strng{authornamehash}{da2888a4c1e8287662c6de7636aebc52}
+      \strng{authorfullhash}{da2888a4c1e8287662c6de7636aebc52}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dengue hemorrhagic fever (DHF) is the result of the interaction between the dengue virus, humans and environmental factors. Dengue fever can be spread through the bite of the Aedes aegypti mosquito. Knowledge related to larval habitat is very important to limit the spread of Dengue virus by reducing the population level of Ae. aegypti. This study aims to determine the potential for dengue virus transmission based on the Entomological Index and Maya Index. The study was conducted in 2 villages in Ternate City for 1 month. To calculate the entomological index value, it is done by observing the characteristics of the habitat, namely by observing the container that is the habitat of Ae. aegypti. The calculated parameters are Container Index (CI), Breteau Index (BI), House Index (HI), Density Figure (DF), and calculate the BRI and HRI values to determine the virtual index. Based on the results of the study, it is known that the entomological index value of Kalumata and North Mangga Dua villages is CI 20.71%, HI 84.0% and BI 361%, with the average DF being in the high category (DF = 7 and 9). The virtual nidex value is in the medium category, namely MI = 55%, with a large BRI value = 56% (high category) and HRI = 45.5% (medium category), meaning that Kalumata and North Mangga Dua villages have the potential for virus transmission to occur Dengue}
+      \field{journaltitle}{International Journal of Science}
+      \field{title}{Potential Of Transmission Of The Dengue Virus Based On Entomological Index And Maya Index In Kalumata And North Mangga Dua villages,Ternate City}
+      \verb{urlraw}
+      \verb http://ijstm.inarah.co.id
+      \endverb
+      \verb{url}
+      \verb http://ijstm.inarah.co.id
+      \endverb
+      \keyw{Dengue Virus Transmission,Entomological Index,Maya Index}
+    \endentry
+    \entry{TunLin1996}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9f1b235d9e3f43111ca69f0e3637b6d6}{%
+           family={Tun-Lin},
+           familyi={T\bibinithyphendelim L\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=85fee867d2fc6588a74e575573724993}{%
+           family={Kay},
+           familyi={K\bibinitperiod},
+           given={B.\bibnamedelimi H.},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=8d0eb8d0b9168e10f5c30fe29fcec69b}{%
+           family={Barnes},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=16500beceb35c26baa79444ea6f52fe9}{%
+           family={Forsyth},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{45d85fc62d484f6118a6568bb669d7c7}
+      \strng{fullhash}{04a7f11fe4849e9da797591f82ca53a3}
+      \strng{bibnamehash}{45d85fc62d484f6118a6568bb669d7c7}
+      \strng{authorbibnamehash}{45d85fc62d484f6118a6568bb669d7c7}
+      \strng{authornamehash}{45d85fc62d484f6118a6568bb669d7c7}
+      \strng{authorfullhash}{04a7f11fe4849e9da797591f82ca53a3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The following immature stage indices for Aedes (Stegomyia) aegypti surveillance were evaluated in four north Queensland, Australia towns with respect to their relationship to immature and adult female densities: Breteau, House, Container, Larval Density, Stegomyia (and modifications thereof), and a newly created Adult Productivity Index. Spearman's correlations of indices that considered larval or immature (larvae and pupae) numbers had a better relationship with immature abundance but this was not necessarily the case against adult abundance. To examine the robustness of the indices, data from 758 premises in Townsville, Charters Towers, Ravenswood, and Mingela were pooled and 30 random subsamples, each consisting of 50 premises were taken. After each subsample was taken, the premises selected were reintroduced into the original data bank of 758 premises, and therefore, were available for further selection, i.e., sampling with replacement. Indices were calculated for each of the 30 subsamples and the coefficients of variation of each index were estimated from these. The Breteau, Adult Productivity, House, and Adult density indices proved to have the smallest coefficients compared with index size. No alternate index was regarded as being superior to the Breteau, including the Adult Productivity Index measuring both container type frequency and immature density. For this reason and in view of the labor intensiveness of estimating immature indices that incorporate productivity, it is recommended that new and cost-effective methods of adult surveillance be pursued.}
+      \field{issn}{00029637}
+      \field{issue}{5}
+      \field{journaltitle}{American Journal of Tropical Medicine and Hygiene}
+      \field{title}{Critical examination of Aedes aegypti indices: Correlations with abundance}
+      \field{volume}{54}
+      \field{year}{1996}
+      \verb{doi}
+      \verb 10.4269/ajtmh.1996.54.543
+      \endverb
+    \endentry
+    \entry{Weetman2018}{generic}{}
+      \name{author}{9}{}{%
+        {{hash=9532b28d78a1c072b89e97e9e1e29392}{%
+           family={Weetman},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b3096c50b2ed3ce3d8a0131573679c2f}{%
+           family={Kamgang},
+           familyi={K\bibinitperiod},
+           given={Basile},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5a9ac87eb906b3eb3ffd8387a954e282}{%
+           family={Badolo},
+           familyi={B\bibinitperiod},
+           given={Athanase},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6b4ce653f2408eaafdc98a435c1b67f5}{%
+           family={Moyes},
+           familyi={M\bibinitperiod},
+           given={Catherine\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=7b649b86ce1362de68c969d75752cb82}{%
+           family={Shearer},
+           familyi={S\bibinitperiod},
+           given={Freya\bibnamedelima M.},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0f8a4fbb5014eb674a3de2c9b8a4c1b4}{%
+           family={Coulibaly},
+           familyi={C\bibinitperiod},
+           given={Mamadou},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7c0839c2129a7e56815254bbc541c9ec}{%
+           family={Pinto},
+           familyi={P\bibinitperiod},
+           given={João},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8d70954bdd2c4d408296a76876ae5180}{%
+           family={Lambrechts},
+           familyi={L\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod}}}%
+        {{hash=331a55ab2eea5a80aa1baf44387548c9}{%
+           family={McCall},
+           familyi={M\bibinitperiod},
+           given={Philip\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{9914929b4559f6c08fb28218e98b8cf2}
+      \strng{fullhash}{a427edf744178389f7902fd3c4b7479e}
+      \strng{bibnamehash}{9914929b4559f6c08fb28218e98b8cf2}
+      \strng{authorbibnamehash}{9914929b4559f6c08fb28218e98b8cf2}
+      \strng{authornamehash}{9914929b4559f6c08fb28218e98b8cf2}
+      \strng{authorfullhash}{a427edf744178389f7902fd3c4b7479e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Zika crisis drew attention to the long-overlooked problem of arboviruses transmitted by Aedes mosquitoes in Africa. Yellow fever, dengue, chikungunya and Zika are poorly controlled in Africa and often go unrecognized. However, to combat these diseases, both in Africa and worldwide, it is crucial that this situation changes. Here, we review available data on the distribution of each disease in Africa, their Aedes vectors, transmission potential, and challenges and opportunities for Aedes control. Data on disease and vector ranges are sparse, and consequently maps of risk are uncertain. Issues such as genetic and ecological diversity, and opportunities for integration with malaria control, are primarily African; others such as ever-increasing urbanization, insecticide resistance and lack of evidence for most control-interventions reflect problems throughout the tropics. We identify key knowledge gaps and future research areas, and in particular, highlight the need to improve knowledge of the distributions of disease and major vectors, insecticide resistance, and to develop specific plans and capacity for arboviral disease surveillance, prevention and outbreak responses.}
+      \field{issn}{16604601}
+      \field{issue}{2}
+      \field{journaltitle}{International Journal of Environmental Research and Public Health}
+      \field{month}{2}
+      \field{title}{Aedes mosquitoes and Aedes-borne arboviruses in Africa: Current and future threats}
+      \field{volume}{15}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.3390/ijerph15020220
+      \endverb
+      \keyw{Aedes aegypti,Aedes albopictus,Aedes formosus,Chikungunya,Dengue,Vector,Yellow fever,Zika}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
